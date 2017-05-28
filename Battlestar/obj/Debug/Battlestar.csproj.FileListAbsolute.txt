@@ -25,3 +25,5 @@ C:\Users\user\Desktop\Battlestar\Battlestar\obj\Debug\Battlestar.csprojResolveAs
 C:\Users\user\Desktop\Battlestar\Battlestar\obj\Debug\Battlestar.Form1.resources
 C:\Users\user\Desktop\Battlestar\Battlestar\obj\Debug\Battlestar.Properties.Resources.resources
 C:\Users\user\Desktop\Battlestar\Battlestar\obj\Debug\Battlestar.csproj.GenerateResource.Cache
+E:\VP-proekt\Battlestar\Battlestar\obj\Debug\Battlestar.Menu.resources
+E:\VP-proekt\Battlestar\Battlestar\obj\Debug\Battlestar.Replay.resources

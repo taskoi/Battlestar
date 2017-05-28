@@ -34,26 +34,5 @@ namespace Battlestar
                 a.axisY();
             }
         }
-        public void checkHit()
-        {
-            foreach(Asteroid a in asteroidi)
-            {
-                if(Form1.left ==true && a.X >= 29 && a.Y >= 207)
-                {
-                    Form1.stop();
-                }
-                else if(Form1.right == true && a.X >=319 && a.Y >=207)
-                {
-                    Form1.stop();
-                }
-                else
-                {
-                    if(a.X >=173 && a.Y >= 207)
-                    {
-                        Form1.stop();
-                    }
-                }
-            }
-        }
     }
 }

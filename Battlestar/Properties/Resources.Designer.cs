@@ -63,16 +63,6 @@ namespace Battlestar.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _18360599_10213229439389805_1733770317_n {
-            get {
-                object obj = ResourceManager.GetObject("18360599_10213229439389805_1733770317_n", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap airplaneImage {
             get {
                 object obj = ResourceManager.GetObject("airplaneImage", resourceCulture);
